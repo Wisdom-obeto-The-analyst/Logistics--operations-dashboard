@@ -39,32 +39,32 @@ customer operations.
 - Business Insight Generation
 
 ## Dashboard Preview
+
 ### Page 1 — Executive Summary
 
 
-![Executive Summary](screenshots/page 1 Executive summary.png)
+![Executive Summary](Page%201%20Executive%20s...)
 
 
 
 ### Page 2 — Driver & Safety Performance
 
 
-![Driver Safety](screenshots/page 2 Driver and safety performance.png)
+![Driver Safety](Page%202%20Driver%20and%20s...)
 
 
 
 ### Page 3 — Fleet & Fuel Efficiency
 
 
-![Fleet Fuel](screenshots/page 3 Fleet and fuel efficiency.png)
+![Fleet Fuel](Page%203%20Fleet%20and%20fu...)
 
 
 
 ### Page 4 — Customer & Route Analysis
 
 
-![Customer Route](screenshots/page 4 Customer and Route Analysis.png)
-
+![Customer Route](Page%204%20Customer%20a...)
 
 ## Author
 **Wisdom Obeto**
