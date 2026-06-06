@@ -42,28 +42,28 @@ customer operations.
 ### Page 1 — Executive Summary
 
 
-![Executive Summary](screenshots/page1.png)
+![Executive Summary](screenshots/page 1 Executive summary.png)
 
 
 
 ### Page 2 — Driver & Safety Performance
 
 
-![Driver Safety](screenshots/page2.png)
+![Driver Safety](screenshots/page 2 Driver and safety performance.png)
 
 
 
 ### Page 3 — Fleet & Fuel Efficiency
 
 
-![Fleet Fuel](screenshots/page3.png)
+![Fleet Fuel](screenshots/page 3 Fleet and fuel efficiency.png)
 
 
 
 ### Page 4 — Customer & Route Analysis
 
 
-![Customer Route](screenshots/page4.png)
+![Customer Route](screenshots/page 4 Customer and Route Analysis.png)
 
 
 ## Author
