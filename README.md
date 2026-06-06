@@ -42,19 +42,19 @@ customer operations.
 
 ### Page 1 — Executive Summary
 
-![Executive Summary](Page%201%20Executive%20Summary.png)
+![Executive Summary](Page%201%20Executive%20summary.png)
 
 ### Page 2 — Driver & Safety Performance
 
-![Driver Safety](Page%202%20Driver%20and%20Safety%20Performance.png)
+![Driver Safety](Page%202%20Driver%20and%20safety%20Performance.png)
 
 ### Page 3 — Fleet & Fuel Efficiency
 
-![Fleet Fuel](Page%203%20Fleet%20and%20Fuel%20Efficiency.png)
+![Fleet Fuel](Page%203%20Fleet%20and%20fuel%20Effficiency.png)
 
 ### Page 4 — Customer & Route Analysis
 
-![Customer Route](Page%204%20Customer%20And%20Route%20Analysis.png)
+![Customer Route](Page%204%20Customer%20and%20Route%20Analysis.png)
 
 ## Author
 **Wisdom Obeto**
